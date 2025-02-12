@@ -39,7 +39,8 @@
 
 ## Developer Tools:
 
-<img src="https://github.com/osifalujoi1/osifalujoi1/blob/main/icons/intellij-idea-svgrepo-com.svg" width="40" height="40"><img src="https://github.com/osifalujoi1/osifalujoi1/blob/main/icons/visualstudio-svgrepo-com.svg" width="40" height="40"><img src="https://github.com/osifalujoi1/osifalujoi1/blob/main/icons/python-svgrepo-com.svg" width="40" height="40">
+<img src="https://github.com/osifalujoi1/osifalujoi1/blob/main/icons/intellij-idea-svgrepo-com.svg" width="40" height="40"><img src="https://github.com/osifalujoi1/osifalujoi1/blob/main/icons/visualstudio-svgrepo-com.svg" width="40" height="40">
+<img src="https://github.com/osifalujoi1/osifalujoi1/blob/main/icons/python-svgrepo-com.svg" width="40" height="40">
 <img src="https://github.com/osifalujoi1/osifalujoi1/blob/main/icons/postman-icon-svgrepo-com.svg" width="40" height="40">
 
 ---
