@@ -22,29 +22,17 @@
 
 ---
 
-## 🎨 Front-end:
-<img src="https://github.com/osifalujoi1/osifalujoi1/blob/main/icons/javascript-svgrepo-com.svg" width="30" height="30">
-<img src="" width="30" height="30">
-<img src="" width="30" height="30">
-<img src="" width="30" height="30">
-<img src="" width="30" height="30">
-<img src="" width="30" height="30">
-<img src="" width="30" height="30">
+## Front-end:
+<img src="https://github.com/osifalujoi1/osifalujoi1/blob/main/icons/javascript-svgrepo-com.svg" width="30" height="30"><img src="https://github.com/osifalujoi1/osifalujoi1/blob/main/icons/css-3-svgrepo-com.svg" width="30" height="30">
+<img src="https://github.com/osifalujoi1/osifalujoi1/blob/main/icons/html-5-svgrepo-com.svg" width="30" height="30">
+<img src="https://github.com/osifalujoi1/osifalujoi1/blob/main/icons/jquery-1-logo-svgrepo-com.svg" width="30" height="30">
+<img src="https://github.com/osifalujoi1/osifalujoi1/blob/main/icons/react-svgrepo-com.svg" width="30" height="30">
+<img src="https://github.com/osifalujoi1/osifalujoi1/blob/main/icons/redux-svgrepo-com.svg" width="30" height="30">
+<img src="https://github.com/osifalujoi1/osifalujoi1/blob/main/icons/sass-svgrepo-com.svg" width="30" height="30">
 
 ---
 
-## 🖥️ Back-end:
-<img src="" width="30" height="30">
-<img src="" width="30" height="30">
-<img src="" width="30" height="30">
-<img src="" width="30" height="30">
-<img src="" width="30" height="30">
-<img src="" width="30" height="30">
-<img src="" width="30" height="30">
-
----
-
-## 🛠️ Developer Tools:
+## Back-end:
 <img src="" width="30" height="30">
 <img src="" width="30" height="30">
 <img src="" width="30" height="30">
@@ -55,7 +43,18 @@
 
 ---
 
-## ☁️ Cloud & Databases:
+## Developer Tools:
+<img src="" width="30" height="30">
+<img src="" width="30" height="30">
+<img src="" width="30" height="30">
+<img src="" width="30" height="30">
+<img src="" width="30" height="30">
+<img src="" width="30" height="30">
+<img src="" width="30" height="30">
+
+---
+
+## Cloud & Databases:
 <img src="" width="30" height="30">
 <img src="" width="30" height="30">
 <img src="" width="30" height="30">
