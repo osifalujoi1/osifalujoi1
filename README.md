@@ -29,32 +29,27 @@
 ---
 
 ## Back-end:
-<img src="https://github.com/osifalujoi1/osifalujoi1/blob/main/icons/java-logo-svgrepo-com.svg" width="30" height="30"><img src="https://github.com/osifalujoi1/osifalujoi1/blob/main/icons/mysql-logo-svgrepo-com.svg" width="30" height="30">
-<img src="https://github.com/osifalujoi1/osifalujoi1/blob/main/icons/python-svgrepo-com.svg" width="30" height="30">
-<img src="https://github.com/osifalujoi1/osifalujoi1/blob/main/icons/vaadin-h-svgrepo-com.svg" width="30" height="30">
-<img src="https://github.com/osifalujoi1/osifalujoi1/blob/main/icons/spring-svgrepo-com.svg" width="30" height="30">
-<img src="https://github.com/osifalujoi1/osifalujoi1/blob/main/icons/node-js-svgrepo-com.svg" width="30" height="30">
-<img src="https://github.com/osifalujoi1/osifalujoi1/blob/main/icons/express-svgrepo-com.svg" width="30" height="30">
+<img src="https://github.com/osifalujoi1/osifalujoi1/blob/main/icons/java-logo-svgrepo-com.svg" width="40" height="40"><img src="https://github.com/osifalujoi1/osifalujoi1/blob/main/maven-opened-svgrepo-com.svg" width="40" height="40">
+<img src="https://github.com/osifalujoi1/osifalujoi1/blob/main/icons/python-svgrepo-com.svg" width="40" height="40">
+<img src="https://github.com/osifalujoi1/osifalujoi1/blob/main/icons/vaadin-h-svgrepo-com.svg" width="40" height="40">
+<img src="https://github.com/osifalujoi1/osifalujoi1/blob/main/icons/spring-svgrepo-com.svg" width="40" height="40">
+<img src="https://github.com/osifalujoi1/osifalujoi1/blob/main/icons/node-js-svgrepo-com.svg" width="40" height="40">
+<img src="https://github.com/osifalujoi1/osifalujoi1/blob/main/icons/express-svgrepo-com.svg" width="40" height="40">
 
 ---
 
 ## Developer Tools:
-<img src="" width="30" height="30">
-<img src="" width="30" height="30">
-<img src="" width="30" height="30">
-<img src="" width="30" height="30">
-<img src="" width="30" height="30">
-<img src="" width="30" height="30">
-<img src="" width="30" height="30">
+
+<img src="https://github.com/osifalujoi1/osifalujoi1/blob/main/icons/intellij-idea-svgrepo-com.svg" width="40" height="40"><img src="https://github.com/osifalujoi1/osifalujoi1/blob/main/icons/visualstudio-svgrepo-com.svg" width="40" height="40"><img src="https://github.com/osifalujoi1/osifalujoi1/blob/main/icons/python-svgrepo-com.svg" width="40" height="40">
+<img src="https://github.com/osifalujoi1/osifalujoi1/blob/main/icons/postman-icon-svgrepo-com.svg" width="40" height="40">
 
 ---
 
 ## Cloud & Databases:
-<img src="" width="30" height="30">
-<img src="" width="30" height="30">
-<img src="" width="30" height="30">
-<img src="" width="30" height="30">
-<img src="" width="30" height="30">
-<img src="" width="30" height="30">
-<img src="" width="30" height="30">
+<img src="https://github.com/osifalujoi1/osifalujoi1/blob/main/icons/aws-svgrepo-com.svg" width="40" height="40"><img src="https://github.com/osifalujoi1/osifalujoi1/blob/main/icons/mysql-logo-svgrepo-com.svg" width="40" height="40">
+<img src="https://github.com/osifalujoi1/osifalujoi1/blob/main/icons/mongodb-svgrepo-com.svg" width="40" height="40">
+<img src="https://github.com/osifalujoi1/osifalujoi1/blob/main/icons/firebase-svgrepo-com.svg" width="40" height="40">
+<!-- <img src="" width="40" height="40">
+<img src="" width="40" height="40">
+<img src="" width="40" height="40"> -->
 
