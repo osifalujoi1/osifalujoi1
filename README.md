@@ -11,87 +11,56 @@
 - 👯 I’m looking to collaborate on Full Stack web app projects
 - 🤔 I’m looking for help with gaining and implememting cloud computing and data management skills.
 
-## 🌐 Connect with me:
-<a href="https://github.com/osifalujoi1" target="_blank">
-  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/github.svg" width="30" height="30" style="fill:#181717;">
+## Connect with me:
+
+<a href="mailto:osifalujoifeoluwa@gmail.com" target="_blank">
+  <img src="https://github.com/osifalujoi1/osifalujoi1/blob/main/ms-outlook-svgrepo-com.svg" width="30" height="30">
 </a>
-<a href="https://linkedin.com/in/your-profile" target="_blank">
-  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/linkedin.svg" width="30" height="30" style="fill:#0077B5;">
-</a>
-<a href="mailto:your-email@example.com" target="_blank">
-  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/gmail.svg" width="30" height="30" style="fill:#D14836;">
+<a href="https://www.linkedin.com/in/ife-osifalujo/" target="_blank">
+  <img src="https://github.com/osifalujoi1/osifalujoi1/blob/main/linkedin-svgrepo-com.svg" width="30" height="30">
 </a>
 
 ---
 
 ## 🎨 Front-end:
-<a href="#">
-  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/html5.svg" width="30" height="30" style="fill:#E34F26;">
-</a>
-<a href="#">
-  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/css3.svg" width="30" height="30" style="fill:#1572B6;">
-</a>
-<a href="#">
-  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/javascript.svg" width="30" height="30" style="fill:#F7DF1E;">
-</a>
-<a href="#">
-  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/react.svg" width="30" height="30" style="fill:#61DAFB;">
-</a>
-<a href="#">
-  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/tailwindcss.svg" width="30" height="30" style="fill:#06B6D4;">
-</a>
+<img src="https://github.com/osifalujoi1/osifalujoi1/blob/main/icons/javascript-svgrepo-com.svg" width="30" height="30">
+<img src="" width="30" height="30">
+<img src="" width="30" height="30">
+<img src="" width="30" height="30">
+<img src="" width="30" height="30">
+<img src="" width="30" height="30">
+<img src="" width="30" height="30">
 
 ---
 
 ## 🖥️ Back-end:
-<a href="#">
-  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/node-dot-js.svg" width="30" height="30" style="fill:#339933;">
-</a>
-<a href="#">
-  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/express.svg" width="30" height="30" style="fill:#000000;">
-</a>
-<a href="#">
-  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/python.svg" width="30" height="30" style="fill:#3776AB;">
-</a>
-<a href="#">
-  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/java.svg" width="30" height="30" style="fill:#007396;">
-</a>
-<a href="#">
-  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/spring.svg" width="30" height="30" style="fill:#6DB33F;">
-</a>
+<img src="" width="30" height="30">
+<img src="" width="30" height="30">
+<img src="" width="30" height="30">
+<img src="" width="30" height="30">
+<img src="" width="30" height="30">
+<img src="" width="30" height="30">
+<img src="" width="30" height="30">
 
 ---
 
 ## 🛠️ Developer Tools:
-<a href="#">
-  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/git.svg" width="30" height="30" style="fill:#F05032;">
-</a>
-<a href="#">
-  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/githubactions.svg" width="30" height="30" style="fill:#2088FF;">
-</a>
-<a href="#">
-  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/visualstudiocode.svg" width="30" height="30" style="fill:#007ACC;">
-</a>
-<a href="#">
-  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/intellijidea.svg" width="30" height="30" style="fill:#000000;">
-</a>
-<a href="#">
-  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/postman.svg" width="30" height="30" style="fill:#FF6C37;">
-</a>
+<img src="" width="30" height="30">
+<img src="" width="30" height="30">
+<img src="" width="30" height="30">
+<img src="" width="30" height="30">
+<img src="" width="30" height="30">
+<img src="" width="30" height="30">
+<img src="" width="30" height="30">
 
 ---
 
 ## ☁️ Cloud & Databases:
-<a href="#">
-  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/mongodb.svg" width="30" height="30" style="fill:#47A248;">
-</a>
-<a href="#">
-  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/mysql.svg" width="30" height="30" style="fill:#4479A1;">
-</a>
-<a href="#">
-  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/firebase.svg" width="30" height="30" style="fill:#FFCA28;">
-</a>
-<a href="#">
-  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/aws.svg" width="30" height="30" style="fill:#FF9900;">
-</a>
+<img src="" width="30" height="30">
+<img src="" width="30" height="30">
+<img src="" width="30" height="30">
+<img src="" width="30" height="30">
+<img src="" width="30" height="30">
+<img src="" width="30" height="30">
+<img src="" width="30" height="30">
 
