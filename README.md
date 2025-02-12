@@ -8,7 +8,7 @@
 
 - 📄 [Resume](https://ifeosifalujoresume.tiiny.site/)
 - 🌱 I’m currently learning MERN tech stack and cloud computing
-- 👯 I’m looking to collaborate on Full Stack web app projects
+- 👯 I’m looking to collaborate on Full Stack web applications
   
 ## Connect with me:
 <a href="https://www.linkedin.com/in/ife-osifalujo/" target="_blank">
