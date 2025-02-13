@@ -46,9 +46,9 @@
 ---
 
 ## Cloud & Databases:
-<img src="https://github.com/osifalujoi1/osifalujoi1/blob/main/icons/aws-svgrepo-com.svg" width="40" height="40"><img src="https://github.com/osifalujoi1/osifalujoi1/blob/main/icons/mysql-logo-svgrepo-com.svg" width="40" height="40">
-<img src="https://github.com/osifalujoi1/osifalujoi1/blob/main/icons/mongodb-svgrepo-com.svg" width="40" height="40">
-<img src="https://github.com/osifalujoi1/osifalujoi1/blob/main/icons/firebase-svgrepo-com.svg" width="40" height="40">
+<!-- <img src="https://github.com/osifalujoi1/osifalujoi1/blob/main/icons/aws-svgrepo-com.svg" width="40" height="40"> -->
+<img src="https://github.com/osifalujoi1/osifalujoi1/blob/main/icons/mysql-logo-svgrepo-com.svg" width="40" height="40"><img src="https://github.com/osifalujoi1/osifalujoi1/blob/main/icons/mongodb-svgrepo-com.svg" width="40" height="40">
+<!-- <img src="https://github.com/osifalujoi1/osifalujoi1/blob/main/icons/firebase-svgrepo-com.svg" width="40" height="40"> -->
 <!-- <img src="" width="40" height="40">
 <img src="" width="40" height="40">
 <img src="" width="40" height="40"> -->
