@@ -1,7 +1,7 @@
 <h1 align="center"> Hi I'm Ife Osifalujo 👋</h1>
 
 <h3 align="center">Software Developer</h3>
-<p align="center">B.S Computer Science in May</p>
+<p align="center">B.S Computer Science</p>
 
 <p align="center"><a href="https://u8views.com/github/osifalujoi1"><img src="https://u8views.com/api/v1/github/profiles/122557631/views/total-count.svg"></a></p>
 
