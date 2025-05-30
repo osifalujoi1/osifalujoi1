@@ -6,7 +6,7 @@
 <p align="center"><a href="https://u8views.com/github/osifalujoi1"><img src="https://u8views.com/api/v1/github/profiles/122557631/views/total-count.svg"></a></p>
 
 
-- 📄 Check out my personal blog at [Stacked Solutions](https://stackedsolutionsblog.netlify.app)
+- 📄 Check out my personal blog: [Stacked Solutions](https://stackedsolutionsblog.netlify.app)
 - 🌱 Tech Stack (Beginner to Intermediate proficiency) - Java, Spring Boot, React, JavaScript, PostgreSQL, AWS
   
 ## Connect with me:
