@@ -1,13 +1,11 @@
 <h1 align="center"> Hi I'm Ife Osifalujo 👋</h1>
 
-<h3 align="center">Software Developer</h3>
-<p align="center">B.S Computer Science</p>
+<h3 align="center">Recent Computer Science Graduate</h3>
+<p align="center">Software Developer</p>
 
 <p align="center"><a href="https://u8views.com/github/osifalujoi1"><img src="https://u8views.com/api/v1/github/profiles/122557631/views/total-count.svg"></a></p>
 
-
-- 📄 Check out my personal blog: [Stacked Solutions](https://stackedsolutionsblog.netlify.app)
-- 🌱 Tech Stack (Beginner to Intermediate proficiency) - Java, Spring Boot, React, JavaScript, PostgreSQL, AWS
+Recent grad passionate about building practical software solutions, enthusiastic about AI, and actively looking for ways to contribute to open-source technology, while working with tools like Spring AI, React, Java, Python, Docker, and Git.
   
 ## Connect with me:
 <a href="https://www.linkedin.com/in/ife-osifalujo/" target="_blank">
