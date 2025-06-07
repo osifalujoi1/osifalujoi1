@@ -4,8 +4,8 @@
 <p align="center">Software Developer</p>
 
 <p align="center"><a href="https://u8views.com/github/osifalujoi1"><img src="https://u8views.com/api/v1/github/profiles/122557631/views/total-count.svg"></a></p>
-___
-<h3>About</h3>
+
+## About
 Recent grad passionate about building practical software solutions, enthusiastic about AI, and actively looking for ways to contribute to open-source technology, while working with tools like Spring AI, React, Java, Python, Docker, and Git.
   
 ## Connect with me:
