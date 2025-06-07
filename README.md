@@ -8,7 +8,7 @@
 ## About
 Recent grad passionate about building practical software solutions, enthusiastic about AI, and actively looking for ways to contribute to open-source technology, while working with tools like Spring AI, React, Java, Python, Docker, and Git.
 
-<p> I also share educational coding content on my <a href="https://stackedsolutionsblog.netlify.app">blog</a></p>
+<p> I also create and share educational coding content on my <a href="https://stackedsolutionsblog.netlify.app">blog</a></p>
   
 ## Connect with me:
 <a href="https://www.linkedin.com/in/ife-osifalujo/" target="_blank">
